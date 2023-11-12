@@ -1,0 +1,5 @@
+/home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-inventory-failover/src/main/java/guru/sfg/brewery/inventoryfailover/model/BeerInventoryDto.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-inventory-failover/src/main/java/guru/sfg/brewery/inventoryfailover/SfgBreweryInventoryFailoverApplication.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-inventory-failover/src/main/java/guru/sfg/brewery/inventoryfailover/web/InventoryHandler.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-inventory-failover/src/main/java/guru/sfg/brewery/inventoryfailover/web/RouterConfig.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-inventory-failover/src/main/java/guru/sfg/brewery/inventoryfailover/config/LocalDiscovery.java
